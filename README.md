@@ -131,6 +131,3 @@ Cost vs accuracy trade-off analysis.
 ## Team
 
 Shaurya Pethe, Tarun Yadav, Devraj Charan, Navjot Singh, Vishal Malik, Akhil Sharma
-
-**Supervisor**: Dr. Harshlata Vishwakarma  
-**Reviewers**: Dr. A. Sirajudeen, Dr. Geeta Singh
