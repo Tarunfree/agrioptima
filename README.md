@@ -31,8 +31,7 @@ agrioptima/
 │   ├── scaler.pkl         ← StandardScaler
 │   ├── label_encoder.pkl  ← LabelEncoder (crop names)
 │   └── metadata.json      ← Feature importance + metrics
-├── scripts/
-│   └── train.py           ← End-to-end training pipeline
+├── train.py           ← End-to-end training pipeline
 ├── requirements.txt
 └── README.md
 ```
